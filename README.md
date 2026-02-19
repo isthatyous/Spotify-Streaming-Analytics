@@ -168,5 +168,5 @@ spotify-mds-pipeline/
 **Author:** Shivam Kumar
 **LinkedIn:** [ShivamKumar](https://www.linkedin.com/in/shivam-kumar-0aa988274/)  
 **GitHub:** [isthatyou](https://github.com/isthatyous)  
-**Contact:** shivamsingh22188@gmsil.com
+**Contact:** shivamsingh22188@gmail.com
 
